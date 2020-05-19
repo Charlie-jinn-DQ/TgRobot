@@ -68,12 +68,6 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = 
-
-"""Heya, glad to hear you want to donate!
-You can Donate anything for [my creator](t.me/charlie_jin).
-It will make him HAPPY."""
-
 
 IMPORTED = {}
 MIGRATEABLE = []
